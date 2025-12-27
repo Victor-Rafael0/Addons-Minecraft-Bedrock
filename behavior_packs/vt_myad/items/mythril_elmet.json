@@ -1,0 +1,23 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:item": {
+    "description": {
+      "identifier": "vt_myad:mythril_elmet",
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.helmet"
+      }
+    },
+    "components": {
+      "minecraft:icon": "vt_myad:mythril_elmet_icon",
+      "minecraft:display_name": {
+        "value": "vt_myad:mythril_elmet_name"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:wearable": {
+        "slot": "slot.armor.head",
+        "protection": 5
+      }
+    }
+  }
+}

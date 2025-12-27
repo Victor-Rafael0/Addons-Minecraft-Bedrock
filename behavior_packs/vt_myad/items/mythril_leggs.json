@@ -1,0 +1,24 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:item": {
+    "description": {
+      "identifier": "vt_myad:mythril_leggs",
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.leggings"
+      }
+    },
+    "components": {
+      "minecraft:icon": "vt_myad:mythril_leggs_icon",
+      "minecraft:display_name": {
+        "value": "vt_myad:mythril_leggs_name"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:wearable": {
+        "slot": "slot.armor.legs",
+        "protection": 6
+      }
+    }
+  }
+}
+}

@@ -1,0 +1,24 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:item": {
+    "description": {
+      "identifier": "vt_myad:mythril_picaxe",
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.pickaxe"
+      }
+    },
+    "components": {
+      "minecraft:icon": "vt_myad:mythril_picaxe_icon",
+      "minecraft:display_name": {
+        "value": "vt_myad:mythril_picaxe_name"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:hand_equipped": true,
+      "minecraft:melee_weapon": {
+        "speed": 3,
+        "damage": 10
+      }
+    }
+  }
+}

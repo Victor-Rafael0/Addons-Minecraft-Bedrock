@@ -1,0 +1,18 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:loot_table": {
+    "pools": [
+      {
+        "rolls": 1,
+        "name": "vt_myad:mythril_ingot_drop",
+        "entries": [
+          {
+            "item": "vt_myad:mythril_ingot",
+            "weight": 1,	
+            "count": 1
+          }
+        ]
+      }
+    ]
+  }
+}

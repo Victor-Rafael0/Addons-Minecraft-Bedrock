@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "vt_myad:mythril_ingot_recipe"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["X"],
+    "key": {
+      "X": {
+        "item": "vt_myad:mythril_mythril"
+      }
+    },
+    "result": {
+      "item": "vt_myad:mythril_ingot",
+      "count": 1
+    }
+  }
+}

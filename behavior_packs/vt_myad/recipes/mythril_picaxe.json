@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "vt_myad:mythril_picaxe_recipe"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["XXX", "#", "#"],
+    "key": {
+      "#": {
+        "item": "vt_myad:mythril_ingot"
+      },
+      "X": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "vt_myad:mythril_picaxe",
+      "count": 1
+    }
+  }
+}

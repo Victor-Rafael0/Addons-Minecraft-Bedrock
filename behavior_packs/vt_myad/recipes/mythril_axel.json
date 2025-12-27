@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "vt_myad:mythril_axel_recipe"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["XX", " # ", " # "],
+    "key": {
+      "X": {
+        "item": "vt_myad:mythril_ingot"
+      },
+      "#": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "vt_myad:mythril_axel",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "vt_myad:mythril_sword_recipe"
+    },
+    "tags": ["crafting_table"],
+    "pattern": ["X X", "XXX", "XXX"],
+    "key": {
+      "X": {
+        "item": "vt_myad:mythril_ingot"
+      }
+    },
+    "result": {
+      "item": "vt_myad:mythril_peitoral",
+      "count": 1
+    }
+  }
+}

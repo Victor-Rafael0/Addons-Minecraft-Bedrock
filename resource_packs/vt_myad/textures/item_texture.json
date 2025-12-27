@@ -1,0 +1,42 @@
+{
+  "resource_pack_name": "vt_myad",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "vt_myad:mythril_ingot_icon": {
+      "textures": "textures/vt_myad/vt_myad/items/mythril_ingot"
+    },
+    "vt_myad:mythril_sword_icon": {
+      "textures": "textures/vt_myad/vt_myad/items/mythril_sword"
+    },
+    "vt_myad:mythril_mythril_icon": {
+      "textures": "textures/vt_myad/vt_myad/blocks/mythril_block"
+    },
+    "vt_myad:mythril_axel_icon": {
+      "textures": "textures/vt_myad/vt_myad/items/mythril_axel"
+    },
+    "vt_myad:mythril_boot_icon": {
+      "textures": "textures/vt_myad/vt_myad/items/mythril_boot"
+    },
+    "vt_myad:mythril_pa_icon": {
+      "textures": "textures/vt_myad/vt_myad/items/mythril_pa"
+    },
+    "vt_myad:mythril_peitoral_icon": {
+      "textures": "textures/vt_myad/vt_myad/items/mythril_peitoral"
+    },
+    "vt_myad:mythril_leggs_icon": {
+      "textures": "textures/vt_myad/vt_myad/items/mythril_leggs"
+    },
+    "vt_myad:mythril_enxada_icon": {
+      "textures": "textures/vt_myad/vt_myad/items/mythril_enxada"
+    },
+    "vt_myad:mythril_elmet_icon": {
+      "textures": "textures/vt_myad/vt_myad/items/mythril_elmet"
+    },
+    "vt_myad:mythril_picaxe_icon": {
+      "textures": "textures/vt_myad/vt_myad/items/mythril_picaxe"
+    },
+    "vt_myad:Bandidao_icon": {
+      "textures": "textures/vt_myad/vt_myad/entities/Bandidao"
+    }
+  }
+}

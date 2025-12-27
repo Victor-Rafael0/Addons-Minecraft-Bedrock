@@ -1,0 +1,23 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:item": {
+    "description": {
+      "identifier": "vt_myad:mythril_peitoral",
+      "menu_category": {
+        "category": "equipment",
+        "group": "itemGroup.name.chestplate"
+      }
+    },
+    "components": {
+      "minecraft:icon": "vt_myad:mythril_peitoral_icon",
+      "minecraft:display_name": {
+        "value": "vt_myad:mythril_peitoral_name"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:wearable": {
+        "slot": "slot.armor.chest",
+        "protection": 8
+      }
+    }
+  }
+}
